@@ -4,7 +4,7 @@ is green and yellow and magenta. It's a trippy shooter made with react-three-fib
 
 **Play it on desktop or mobile at https://georgewaraw.github.io/gr/**
 
-**or watch me play it at TODO**
+**or watch me play it at https://youtu.be/mIWD8ChLn2E**
 
 *Shoot ghosts, earn points!*
 
